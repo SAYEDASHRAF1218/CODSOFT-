@@ -185,24 +185,3 @@ scikit-learn
 kagglehub
 
 
----
-
-📜 Internship Task Deliverables
-
-main.py → Training + prediction script
-
-requirements.txt → Dependencies
-
-README.md → Documentation
-
-report.pdf → Internship report with results
-
-
-✅ Upload this repository to GitHub as your internship submission.
-
-
----
-
-👉 Bro, this text now has documentation + code + requirements in one place.
-Do you also want me to write a short README.md template (GitHub style) so you can directly copy it into your repo?
-
