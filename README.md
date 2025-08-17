@@ -1,4 +1,4 @@
-# CODSOFT-
+# CODSOFT.1
 
 🎬 Movie Genre Prediction - Internship Task
 
